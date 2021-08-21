@@ -1,13 +1,17 @@
-## About Me
+### About Me
 
-Hi! I'm a first year Masters student in [Electrical and Computer Engineering](https://www.ece.gatech.edu/) at Georgia Tech. I'm interested in working in Reinforcement Learning and its applications in games and beyond. 
+Hi! I'm a first year Masters student in [Electrical and Computer Engineering](https://www.ece.gatech.edu/) at Georgia Tech. I'm interested in working in Reinforcement Learning and its applications in games and beyond. I also have a good programming background which enables me to implement and test my ideas. I love breaking my head over Ted-Ed puzzles and occasionally solving jigsaw puzzles :)
 
-### Markdown
+### Research
+Using auxiliary tasks,such as object detection to initialize agents to play [Starcraft 2](https://github.com/deepmind/pysc2) to improve sample efficiency with Prof. Zsolt Kira from College of Interative Computing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### Work and Skills
+- Summer internship at Adobe Systems India, in 2017: Worked on comparing different deep learning frameworks based on learning curves and ease of use. 
+- Summer internship at Adobe Systems India, in 2017: Worked on the initial stages of a Reinforcement Learning based ad-recommendation engine.
+- Internship at Cisco Systems India, worked on designing and implementing a web portal for device management.
+- Worked as a Network Engineer and created several automation workflows for SDN solution deployment in Data Center and Enterprise domains.
+- Graduate Teaching Assistant for Computer Networks (CS3251) at Georgia Tech in Spring 2021, Fall 2021. I implemented an autograder from scratch to hasten grading.
+- Graduate Teaching Assistant for Computer Networks (CS6250) at Georgia Tech in Summer 2021.
 
 # Header 1
 ## Header 2
