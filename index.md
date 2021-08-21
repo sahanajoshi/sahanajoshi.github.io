@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/sahanajoshi/sahanajoshi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! I'm a first year Masters student in [Electrical and Computer Engineering](https://www.ece.gatech.edu/) at Georgia Tech. I'm interested in working in Reinforcement Learning and its applications in games and beyond. 
 
 ### Markdown
 
