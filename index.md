@@ -1,5 +1,6 @@
 ### About Me
 
+![Sahana Joshi](sahana-joshi.jpg)
 Hi! I'm a first year Masters student in [Electrical and Computer Engineering](https://www.ece.gatech.edu/) at Georgia Tech. I'm interested in working in Reinforcement Learning and its applications in games and beyond. I also have a good programming background which enables me to implement and test my ideas. I love breaking my head over Ted-Ed puzzles and occasionally solving jigsaw puzzles :)
 
 ### Research
