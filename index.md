@@ -11,8 +11,8 @@ Using auxiliary tasks,such as object detection to initialize agents to play [Sta
 ### Work and Skills
 - Graduate Teaching Assistant for Computer Networks (CS6250) at Georgia Tech in Summer 2021.
 - Graduate Teaching Assistant for Computer Networks (CS3251) at Georgia Tech in Spring 2021, Fall 2021. I implemented an autograder from scratch to hasten grading.
-- Worked as a Network Engineer and created several automation workflows for SDN solution deployment in Data Center and Enterprise domains.
-- Internship at Cisco Systems India, worked on designing and implementing a web portal for device management.
+- Worked as a Network Engineer and created several automation workflows for SDN solution deployment in Data Center and Enterprise domains, from 2018 to 2020.
+- Internship at Cisco Systems India, worked on designing and implementing a web portal for device management, in 2018.
 - Summer internship at Adobe Systems India, in 2017: Worked on comparing different deep learning frameworks based on learning curves and ease of use. 
 - Summer internship at Adobe Systems India, in 2017: Worked on the initial stages of a Reinforcement Learning based ad-recommendation engine.
 
