@@ -8,10 +8,13 @@ Hi! I'm a first year Masters student in [Electrical and Computer Engineering](ht
 ### Research
 Using auxiliary tasks,such as object detection to initialize agents to play [Starcraft 2](https://github.com/deepmind/pysc2) to improve sample efficiency with Prof. Zsolt Kira from College of Interative Computing.
 
+### Publications
+[Stepwise and Quadratic Discriminant Analysis of P300 signals for Controlling a Robot](https://ieeexplore.ieee.org/document/8903946)
+
 ### Work and Skills
 - Graduate Teaching Assistant for Computer Networks (CS6250) at Georgia Tech in Summer 2021.
 - Graduate Teaching Assistant for Computer Networks (CS3251) at Georgia Tech in Spring 2021, Fall 2021. I implemented an autograder from scratch to hasten grading.
-- Worked as a Network Engineer and created several automation workflows for SDN solution deployment in Data Center and Enterprise domains, from 2018 to 2020.
+- Worked as a Network Engineer and created several [automation workflows](https://developer.cisco.com/codeexchange/github/repo/sahanajoshi/dnacataglance/) for SDN solution deployment in Data Center and Enterprise domains, from 2018 to 2020.
 - Internship at Cisco Systems India, worked on designing and implementing a web portal for device management, in 2018.
 - Summer internship at Adobe Systems India, in 2017: Worked on comparing different deep learning frameworks based on learning curves and ease of use. 
 - Summer internship at Adobe Systems India, in 2017: Worked on the initial stages of a Reinforcement Learning based ad-recommendation engine.
