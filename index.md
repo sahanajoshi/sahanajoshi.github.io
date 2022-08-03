@@ -3,7 +3,11 @@
 ![Sahana Joshi](sahana-joshi.jpg)
 
 
-Hi! I'm a first year Masters student in [Electrical and Computer Engineering](https://www.ece.gatech.edu/) at Georgia Tech. I'm interested in working in Reinforcement Learning and its applications in games and beyond. I also have a good programming and math background which enables me to implement and test my ideas. I love breaking my head over Ted-Ed puzzles and occasionally solving jigsaw puzzles :)
+Hi! I'm a Masters student in [Electrical and Computer Engineering](https://www.ece.gatech.edu/) at Georgia Tech. I'm interested in working in Reinforcement Learning and its applications in games and beyond. I also have a good programming and math background which enables me to implement and test my ideas. I love breaking my head over Ted-Ed puzzles and occasionally solving jigsaw puzzles :)
+
+### Projects
+- [TECLAT](TECLAT.pdf): Adapting [CURL](https://github.com/MishaLaskin/curl) to predict a transition score as an auxiliary task to improve sample effiency
+![teclat-image](teclat_model.PNG)
 
 ### Research
 Using auxiliary tasks,such as object detection to initialize agents to play [Starcraft 2](https://github.com/deepmind/pysc2) to improve sample efficiency with Prof. Zsolt Kira from College of Interative Computing in the [Robotics Perception and Learning lab](https://www.cc.gatech.edu/~zk15/group/).
