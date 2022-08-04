@@ -12,7 +12,7 @@ Hi! I'm a Masters student in [Electrical and Computer Engineering](https://www.e
 
 - Object tracking using Particle filter for [gamification](Gamification_of_particle_filter_based_multi_object_tracking_through_socket_based_communication.pdf)
 
-- [Image denoising](PDEs_Project) using partial differential equations
+- [Image denoising](PDEs_Project.pdf) using partial differential equations
 
 ### Research
 Using auxiliary tasks,such as object detection to initialize agents to play [Starcraft 2](https://github.com/deepmind/pysc2) to improve sample efficiency with Prof. Zsolt Kira from College of Interative Computing in the [Robotics Perception and Learning lab](https://www.cc.gatech.edu/~zk15/group/).
