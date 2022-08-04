@@ -2,12 +2,14 @@
 
 ![Sahana Joshi](sahana-joshi.jpg)
 
-Hi! I'm a Masters student in [Electrical and Computer Engineering](https://www.ece.gatech.edu/) at Georgia Tech. I'm interested in working in Reinforcement Learning and its applications in games and beyond. I also have a good programming and math background which enables me to implement and test my ideas. I love breaking my head over Ted-Ed puzzles and occasionally solving jigsaw puzzles :)
+Hi! I'm a Masters student in [Electrical and Computer Engineering](https://www.ece.gatech.edu/) at Georgia Tech. I'm interested in working in Reinforcement Learning and its applications in games and beyond. I also have a good programming and math background which enables me to implement and test my ideas. I love breaking my head over Ted-Ed puzzles and occasionally solving jigsaw puzzles, I like to run, read and hula hoop :)
 
 ### Projects
-- [TECLAT](TECLAT.pdf): Adapting [CURL](https://github.com/MishaLaskin/curl) to predict a transition score as an auxiliary task to improve sample effiency
+- [TECLAT](TECLAT.pdf): Adapting [CURL](https://github.com/MishaLaskin/curl) to predict a transition score as an auxiliary task to improve sample effiency.
 <img src="teclat_model.PNG" alt="teclat_model" length="400" width="400"/>
-
+- [Compare](ECE_6254.pdf) RL algorithms such as Deep Q-Learning, Double DQN, Dueling DQN and Advantage Actor Critic on Atari environment.
+- Object tracking using Particle filter for [gamification](Gamification_of_particle_filter_based_multi_object_tracking_through_socket_based_communication.pdf)
+- 
 ### Research
 Using auxiliary tasks,such as object detection to initialize agents to play [Starcraft 2](https://github.com/deepmind/pysc2) to improve sample efficiency with Prof. Zsolt Kira from College of Interative Computing in the [Robotics Perception and Learning lab](https://www.cc.gatech.edu/~zk15/group/).
 
