@@ -34,6 +34,6 @@ Using auxiliary tasks,such as object detection to initialize agents to play [Sta
 [![Email](email.png)](mailto:sjoshi330@gatech.edu)
 [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/sahana-joshi/)
 [![Github](github.png)](https://github.com/sahanajoshi)
-[![Resume](resume.png)](Resume_Sahana_Joshiv3.pdf)
+[![Resume](resume.png)](Resume_Sahana_Joshi_v5.pdf)
 
 
