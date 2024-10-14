@@ -1,6 +1,6 @@
 ### About Me
 
-![Sahana Joshi](sahana-joshi.jpg)
+<img src="sahana-joshi.jpg" alt="Sahana Joshi" length="200" width="200"/>
 
 Hi! I'm a Masters student in [Electrical and Computer Engineering](https://www.ece.gatech.edu/) at Georgia Tech. I'm interested in working in Reinforcement Learning and its applications in games and beyond. I also have a good programming and math background which enables me to implement and test my ideas. I love breaking my head over Ted-Ed puzzles and occasionally solving jigsaw puzzles, I like to run, read and hula hoop :)
 
@@ -21,6 +21,7 @@ Using auxiliary tasks,such as object detection to initialize agents to play [Sta
 [Stepwise and Quadratic Discriminant Analysis of P300 signals for Controlling a Robot](https://ieeexplore.ieee.org/document/8903946)
 
 ### Work and Skills
+- Software Engineer at Microsoft.
 - Software Engineering Intern at Microsoft: implemented enhanced process logging for Azure to help in better understanding node health
 - Graduate Teaching Assistant for Computer Networks (CS6250) at Georgia Tech in Summer 2021.
 - Graduate Teaching Assistant for Computer Networks (CS3251) at Georgia Tech in Spring 2021, Fall 2021, Spring 2022 and Fall 2022. I implemented an autograder from scratch to hasten grading.
